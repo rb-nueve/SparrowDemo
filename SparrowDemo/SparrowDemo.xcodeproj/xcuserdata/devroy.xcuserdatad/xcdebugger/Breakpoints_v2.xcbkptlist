@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "085F21A7-22C6-42E0-916F-64487F237BB0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27CA3702-204C-49B2-9519-5F12E00D974F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "startVideoLoop()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27CA3702-204C-49B2-9519-5F12E00D974F - de7ffccf5d0546a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparrowDemo.VideoPlayerViewModel.startVideoLoop() -&gt; ()"
+                  moduleName = "SparrowDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devroy/Documents/SparrowDemo/SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "724">
+               </Location>
+               <Location
+                  uuid = "27CA3702-204C-49B2-9519-5F12E00D974F - dc7ffc33481c1cec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;__C.AVAssetTrack&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SparrowDemo.VideoPlayerViewModel.startVideoLoop() -&gt; ()"
+                  moduleName = "SparrowDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devroy/Documents/SparrowDemo/SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "137"
+                  endingLineNumber = "137"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ED8BCF0E-BCC5-4FB7-B082-8540B7306118"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "startVideoLoop()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ED8BCF0E-BCC5-4FB7-B082-8540B7306118 - de7ffccf5d05572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparrowDemo.VideoPlayerViewModel.startVideoLoop() -&gt; ()"
+                  moduleName = "SparrowDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devroy/Documents/SparrowDemo/SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "ED8BCF0E-BCC5-4FB7-B082-8540B7306118 - de7ffccf5d05572"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SparrowDemo.VideoPlayerViewModel.startVideoLoop() -&gt; ()"
+                  moduleName = "SparrowDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/devroy/Documents/SparrowDemo/SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4E58D1F-B6F8-470A-93F2-685423459909"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "startVideoLoop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "970192F5-3EB3-4F6F-AF7D-65B890D5641C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SparrowDemo/Model/ViewModel/VideoPlayerViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "startVideoLoop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
